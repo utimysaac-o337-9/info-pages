@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://utimysaac-o337-9.github.io/info-pages/sitemap.xml
